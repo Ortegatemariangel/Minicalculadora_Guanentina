@@ -30,7 +30,7 @@ Operaciones disponibles
 
 4) Division: r = x / y 
 
-5) Potencia: r =  xŷ
+5) Potencia: r =  x^y
 
 6) Logaritmo: r = log base y de x
 
